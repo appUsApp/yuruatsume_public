@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "20250710_2106_泡沫結晶の幻影_simple_compose_01jzt3kvn1e33ak8sgqtb2r8k6.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "20250823_1728_ハートアイコンデザイン_simple_compose_01k3b0nfcvefesjcx0t3jmj6ng.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

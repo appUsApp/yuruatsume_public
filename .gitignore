@@ -1,0 +1,6 @@
+# Xcode
+DerivedData/
+*.xcuserdatad/
+*.xcuserstate
+# Real Firebase config should never be committed
+GoogleService-Info.plist

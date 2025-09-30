@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "20250710_2100_幻想的な金色のお金_simple_compose_01jzt3agnzfwqv9hf3n23jk0g3.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
